@@ -1,0 +1,23 @@
+[33mcommit 1e39e331e41ed8dbae5a53eb5478a64ca40556be[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: netric91@gmail.com <netric91@gmail.com>
+Date:   Sat Jan 29 09:30:21 2022 +0300
+
+    Added greeting
+
+[33mcommit fe8f5c6e550de4f58f8cc3a62ae91a6d8e3d4abf[m
+Author: netric91@gmail.com <netric91@gmail.com>
+Date:   Sat Jan 29 09:04:50 2022 +0300
+
+    Edit README.md and hello_world.txt
+
+[33mcommit bcdbddf844d0361343b110f1131e4f03a132c3de[m
+Author: netric91@gmail.com <netric91@gmail.com>
+Date:   Sat Jan 29 08:40:48 2022 +0300
+
+    add hello_world.txt
+
+[33mcommit 65b295ecae13dd09d05b7441715caf2de79e02e8[m
+Author: ngeseric <netric91@yahoo.com>
+Date:   Sat Jan 29 08:18:56 2022 +0300
+
+    Initial commit
